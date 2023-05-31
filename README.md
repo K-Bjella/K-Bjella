@@ -1,10 +1,11 @@
-### Hi there 👋
+ Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+As an ambitious and outcome-oriented individual, I am shifting my career to the cloud technology sector. With a strong background in healthcare marketing,
+I have acquired diverse competencies and can easily adjust to varying circumstances. Currently, I am enrolled in the Level Up in Tech program, 
+a DevOps Engineering Bootcamp, where I am sharpening my skills in several areas, such as AWS, Linux, Python, Infrastructure as Code, Orchestration,
+Containerization, Terraform, CI/CD, and Source Control.
 
 Find out more about me & feel free to connect with me here:
-
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kristofer%20Bjella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristofer-bjella-316310227/)](https://www.linkedin.com/in/kristofer-bjella-316310227/)
 [![Medium Badge](https://img.shields.io/badge/Kristofer%20Bjella-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@kristoferbjella1993)](https://medium.com/@kristoferbjella1993)
